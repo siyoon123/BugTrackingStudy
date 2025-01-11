@@ -688,6 +688,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6579299871317086790, guid: 7c038901225fc496ea5eb49e24918f19, type: 3}
+      propertyPath: m_text
+      value: "\uC774\uBCA4\uD2B8 1"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6579299871317086790, guid: 7c038901225fc496ea5eb49e24918f19, type: 3}
       propertyPath: m_fontAsset
       value: 
       objectReference: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
